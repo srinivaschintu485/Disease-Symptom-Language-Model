@@ -1,10 +1,10 @@
 # Disease-Symptom-Language-Model
 
-#Project Overview
+# Project Overview
 
 This project trains a language model to understand and generate responses related to diseases and symptoms. The model is based on GPT-2 and can generate relevant text, potentially useful for applications like symptom checking or providing general information.
 
-#Contents
+# Contents
 
 The notebook includes:
 
